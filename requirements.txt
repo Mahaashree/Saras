@@ -10,7 +10,7 @@ GitPython==3.1.44
 idna==3.10
 Jinja2==3.1.6
 jsonschema==4.23.0
-jsonschema-specifications==2025.4.1
+gahahahahah
 lxml==5.4.0
 MarkupSafe==3.0.2
 narwhals==1.40.0
