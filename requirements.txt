@@ -9,9 +9,8 @@ gitdb==4.0.12
 GitPython==3.1.44
 idna==3.10
 Jinja2==3.1.6
-jsonschema==4.23.0
-gahahahahah
-lxml==5.4.0
+
+asdfghjkllxml==5.4.0
 MarkupSafe==3.0.2
 narwhals==1.40.0
 numpy==2.2.6
